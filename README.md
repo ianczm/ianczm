@@ -23,7 +23,7 @@
 
 ## Tech Stack
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+- <i class="devicon-nuxtjs-plain-wordmark colored"></i>
 
 <!--
 **ianczm/ianczm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
