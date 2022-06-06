@@ -23,7 +23,7 @@
 
 ## Tech Stack
 
-- <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+<img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 
 <!--
 **ianczm/ianczm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
