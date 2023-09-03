@@ -1,13 +1,15 @@
 ### Hey there, I'm Ian 👋
 
-- 🎓 I'm a penultimate-year computer science student at the University of Nottingham Malaysia.
+- 💼 I'm a software engineer!
+- 🎓 I graduated with a BSc Computer Science degree from the University of Nottingham.
 - 🖥️ My fascination is with web development, algorithms, mathematics and artificial intelligence.
 
 ---
 
 ### What I'm currently up to
 
-- 🌱 Learning NUXT and Vue.
+- 🌱 Learning Next.js, Vue and Laravel out of interest.
+- ⚒️ At work, my trusty tools are Java Spring and Play for backend and Angular for frontend.
 - 📌 Working on freelance web development projects for a startup.
 - 💎 On the lookout for new projects and learning/working opportunities.
 - 📸 Fun fact: I love photography too.
