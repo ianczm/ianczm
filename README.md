@@ -8,11 +8,11 @@
 
 ### What I'm currently up to
 
-- 🌱 Learning Next.js, Vue and Laravel out of interest.
+- 🌱 Learning Next.js, React, Vue and Laravel out of interest.
 - ⚒️ At work, my trusty tools are Java Spring and Play for backend and Angular for frontend.
 - 📌 Working on freelance web development projects for a startup.
 - 💎 On the lookout for new projects and learning/working opportunities.
-- 📸 Fun fact: I love photography too.
+- 📸 Fun fact: I love photography too!
 
 ---
 
