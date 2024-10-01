@@ -1,6 +1,6 @@
 ### Hey there, I'm Ian 👋
 
-- 💼 I'm a software engineer, currently building Java Spring Boot cloud services at Hilti!
+- 💼 I'm a full-stack software engineer, currently building Java Spring Boot cloud services at Hilti!
 - 🎓 I graduated from the University of Nottingham with a First Class in BSc Computer Science with Artificial Intelligence in 2023.
 - 🖥️ My fascination is with web development, engineering practices, user interfaces, mathematics and AI.
 
