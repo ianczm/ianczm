@@ -2,17 +2,17 @@
 
 - 💼 Backend software engineer at Hilti, where I recently led the rewrite of a licensing system serving 470,000 licences, cutting p95 latency by 96% and saving EUR 120k/year in vendor costs.
 - 🎓 First Class BSc Computer Science with AI, University of Nottingham Malaysia, 2023.
-- 🖥️ I care about correctness, clean architecture, and systems that don't surprise you in production.
+- 🖥️ I care about clean architecture, correctness, and production systems that are predictable and reliable.
 
 ---
 
 ### What I'm currently up to
 
-- ⚒️ At work: reactive Java (Spring WebFlux), AWS, PostgreSQL, and keeping distributed systems well-behaved.
-- 💎 On the side: Next.js and React, because I still enjoy building things you can see.
-- 🤖 Also exploring AI-assisted development workflows like spec-driven development, steering files, agentic tooling.
-- 📸 Fun fact 1: I enjoy nature and always bring my camera along
-- 🏸 Fun fact 2: Also very fascinated by languages (human ones)
+- ⚒️ **At work:** reactive Java (Spring WebFlux), AWS, PostgreSQL, and keeping distributed systems well-behaved.
+- 💎 **On the side:** Next.js and React, because I still enjoy building things you can see.
+- 🤖 **Day-to-day:** Exploring AI-assisted development workflows like spec-driven development, steering files, agentic tooling.
+- 📸 **Fun fact 1:** I enjoy nature and always bring my camera along
+- 🏸 **Fun fact 2:** Also very fascinated by languages (human ones)
 
 ---
 
