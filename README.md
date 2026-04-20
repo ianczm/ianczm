@@ -1,20 +1,18 @@
 ### Hey there, I'm Ian 👋
 
-- 💼 I'm a full-stack software engineer, currently building Java Spring Boot cloud services at Hilti!
-- 🎓 I graduated from the University of Nottingham with a First Class in BSc Computer Science with Artificial Intelligence in 2023.
-- 🖥️ My fascination is with web development, engineering practices, user interfaces, mathematics and AI.
+- 💼 Backend software engineer at Hilti, where I recently led the rewrite of a licensing system serving 470,000 licences — cutting p95 latency by 96% and saving EUR 120k/year in vendor costs.
+- 🎓 First Class BSc Computer Science with AI, University of Nottingham Malaysia, 2023.
+- 🖥️ I care about correctness, clean architecture, and systems that don't surprise you in production.
 
 ---
 
 ### What I'm currently up to
 
-- 💎 Tinkering around with Next.js and React in my free time.
-- 🌱 Also starting to pick up Three.js because interactive 3D on the web is cool!
-- ⚒️ At work, I build and maintain Java Spring Boot services with a focus on refactoring, design patterns and architecture.
-- 🪐 I've worked on some fun web development projects in both freelance and voluntary capacities.
-- 👀 Always on the lookout for new projects and learning opportunities
-- 📸 Fun fact 1: I love photography too!
-- 🏸 Fun fact 2: Currently picking up badminton
+- ⚒️ At work: reactive Java (Spring WebFlux), AWS, PostgreSQL, and keeping distributed systems well-behaved.
+- 💎 On the side: Next.js and React, because I still enjoy building things you can see.
+- 🤖 Also exploring AI-assisted development workflows like spec-driven development, steering files, agentic tooling.
+- � Fun fact 1: I enjoy nature and always bring my camera along
+- 🏸 Fun fact 2: Also very fascinated by languages (human ones)
 
 ---
 
@@ -22,8 +20,8 @@
 
 #### Portfolio
 
-- 🏡 I'm currently trying my hand at building my personal portfolio: [www.ianczm.com](https://www.ianczm.com/).
-- 👷‍♂️ It's currently under construction, but early visits are always welcome!
+- 🏡 Currently trying my hand at building my personal portfolio: [www.ianczm.com](https://www.ianczm.com/).
+- 👷‍♂️ Under construction at the moment, but early visits are always welcome!
 
 #### Socials
 
@@ -32,7 +30,7 @@
 
 #### Email
 
-📫 I'm available through email as well at [ianczm@live.co.uk](mailto:ianczm@live.co.uk).
+📫 I'm available at [ianczm@live.co.uk](mailto:ianczm@live.co.uk).
 
 ---
 
