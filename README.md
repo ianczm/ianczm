@@ -1,6 +1,6 @@
 ### Hey there, I'm Ian 👋
 
-- 💼 Backend software engineer at Hilti, where I recently led the rewrite of a licensing system serving 470,000 licences — cutting p95 latency by 96% and saving EUR 120k/year in vendor costs.
+- 💼 Backend software engineer at Hilti, where I recently led the rewrite of a licensing system serving 470,000 licences, cutting p95 latency by 96% and saving EUR 120k/year in vendor costs.
 - 🎓 First Class BSc Computer Science with AI, University of Nottingham Malaysia, 2023.
 - 🖥️ I care about correctness, clean architecture, and systems that don't surprise you in production.
 
